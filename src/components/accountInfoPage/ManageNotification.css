@@ -1,0 +1,15 @@
+.text-left{
+    text-align: start;
+}
+
+.text-right{
+    text-align: end;
+}
+.eighty-per-hr{
+    width: 95% !important;
+}
+
+.form-check-input:checked {
+    background-color: #45c476;
+    border-color: #45c476;
+}

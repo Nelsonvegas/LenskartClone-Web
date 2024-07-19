@@ -1,0 +1,65 @@
+.accordion-item{
+    border: none;
+    
+}
+
+.phoneNo{
+    color: blue;
+}
+
+.left-top-text{
+    color: gray;
+}
+
+.right-top-text{
+    color: gray;
+}
+.size{
+    color: gray;
+}
+
+
+
+.list-itemm{
+    border: none;
+}
+
+.image-box{
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    position: static;
+    top: 0;
+    height:80vh;
+}
+
+.category-wishlist{
+    display: flex;
+    justify-content: space-between;
+    
+}
+/* .accordion{
+  
+align-items: center;
+
+} */
+.buy1get1{
+    background-color: #f7f1de;
+    color: #000042;
+padding: 1rem;
+}
+
+.list-itemm{
+    padding:1rem 0rem 1rem 0rem  ;
+}
+
+.button{
+    background-color: #00bac6;
+    width: 100%;
+}
+
+
+tbody, td, tfoot, th, thead, tr {
+    border-style: none ;
+
+}

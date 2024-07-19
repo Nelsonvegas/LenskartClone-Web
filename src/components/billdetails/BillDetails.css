@@ -1,0 +1,31 @@
+
+  
+  .hr1{
+      border-style: dashed;
+      size:3px;
+      background-color: #EAF6F6;
+  }
+  .col1{
+      text-align: left;
+      color:#210042 ;
+      font-size: 1rem;
+  }
+  
+  .col2{
+      font-size: 1rem;
+      color:#210042 ;
+  }
+  
+ 
+  .blue-text{
+      color: #000048 !important;
+      font-weight: bold;
+  }
+
+  .green{
+    color: #9FE7D2;
+  }
+
+  .main-card{
+    width: 1rem;
+  }

@@ -1,0 +1,26 @@
+.section:hover{
+    border-bottom:2px solid rgb(7, 7, 7);
+    }
+
+.threedtryonbtn{
+    width:100%;
+    font-size:0.5rem;
+    padding:5px;
+    background-color:#00b5a5;
+}
+
+.blubtn{
+    width:100%;
+    font-size:0.5rem;
+    padding:5px;
+    background-color:#dcf3f9;
+    color:#0e104e
+}
+
+.goldbtn{
+    width:100%;
+    font-size:0.5rem;
+    padding:5px;
+    background-color:#000000;
+    color:#e0c67c;
+}

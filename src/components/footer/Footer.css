@@ -1,0 +1,45 @@
+
+
+footer {
+  
+    color: white;
+    padding:0.5rem 4rem 0.5rem 4rem;
+    background-color: #000042 !important;
+    position: ;
+}
+
+.r1{
+    font-size: 2rem;
+    text-align:center;
+}
+
+.top-section{
+    text-align:left;
+    
+}
+
+.list-section{
+    list-style:none;
+    
+}
+
+.list-top-item{
+    font-size:1.3rem;
+    color: white;
+    text-decoration: none;
+
+}
+
+.list-item{
+    font-size:0.8rem;
+    color: white;
+    text-decoration: none;
+}
+
+ol, ul {
+    padding-left: 0rem;
+}
+
+.icon{
+    color:white;
+}

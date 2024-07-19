@@ -1,0 +1,23 @@
+.list-group-left{
+    --bs-list-group-bg: #f7f5f5;
+    --bs-list-group-action-color:#f7f5f5 !important;
+    --bs-list-group-action-color: var(--bs-secondary-color);
+    --bs-list-group-action-hover-color: #fff;
+    --bs-list-group-action-hover-bg: #3bb3a9;
+    --bs-list-group-action-active-color: #fff;
+    --bs-list-group-action-active-bg: #3bb3a9;
+    --bs-list-group-active-color: #f7f5f5;
+    --bs-list-group-active-bg:#3bb3a9;
+    --bs-list-group-active-border-color:#3bb3a9;
+    height: 80vh;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    border-radius: 0;
+}
+
+.list-group-item-left{
+
+    border: #fff;
+    padding: 1rem 0 1rem 0;
+}
+

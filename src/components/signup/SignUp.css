@@ -1,0 +1,17 @@
+.modal-header{
+    border: none;
+    padding-bottom: 3px !important;
+}
+.text-color{
+    color: #37376b;
+}
+.small-text{
+    font-size: 12px;
+}
+.link-text{
+    color:#272758;
+}
+.log:hover{
+    background-color: rgb(43, 12, 97);
+    color: white;
+}
